@@ -1,3 +1,6 @@
+# Purpose
+This is to test codeigniter(2.0).
+
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 
